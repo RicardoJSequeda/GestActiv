@@ -105,3 +105,6 @@ npm run build
 - Styled with Tailwind CSS
 
 Built with ❤️ on Rocket.new
+
+
+🔒 Login credentials for app's functional experience. admin@spar.gov.co: admin123 coordinador@spar.gov.co: coord123 trabajador@spar.gov.co: field123
